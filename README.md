@@ -5,9 +5,9 @@
 3) open file config/credentials.php and set database user credentials default username is root and password is "" (Blank). Change it accordingly.
 4) run command -> composer install
 
-Great API is ready.
 I've used Slim framework with laravel's illuminate/database library for database query.
 
-
+Great 
+your Apis is ready to use.
 
 
